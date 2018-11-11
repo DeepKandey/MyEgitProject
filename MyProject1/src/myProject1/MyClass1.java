@@ -9,5 +9,4 @@ public class MyClass1 {
 		System.out.println("Good Morning All");
 
 	}
-
 }
