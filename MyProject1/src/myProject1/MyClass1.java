@@ -7,6 +7,6 @@ public class MyClass1 {
 		System.out.println("Hi");
 		System.out.println("Good Morning");
 		System.out.println("Good Morning All");
-        System.out.println("Selenium");
+        System.out.println("Selenium1");
 	}
 }
